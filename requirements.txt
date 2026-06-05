@@ -1,0 +1,8 @@
+fastapi
+uvicorn[standard]
+httpx
+scikit-learn
+numpy
+joblib
+requests
+python-multipart

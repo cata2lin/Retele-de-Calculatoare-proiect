@@ -1,0 +1,17 @@
+__pycache__/
+*.pyc
+
+venv/
+.venv/
+
+# se genereaza local cand rulezi proiectul
+data/
+models/
+logs/
+reports/
+*.db
+*.joblib
+*.log
+
+.vscode/
+.idea/
